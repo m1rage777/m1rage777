@@ -6,7 +6,7 @@
 - 👀 I am interested in a lifecycle of software development.
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
 ### Skills and Tools 
-## 🗺️ Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm.
+- 🗺️ Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm.
 
 <!-- main_page_length: 846px, img_spacing: 4px -->
 <div align="center">
@@ -25,13 +25,13 @@
 <br />
 <br />
 <br />
-### 📖 I learn English (LangExchange + Self studying by **English File** course books)
-### 💞️ I'm looking for a new projects! Different is better!
+- 📖 I learn English (LangExchange + Self studying by **English File** course books)
+- 💞️ I'm looking for a new projects! Different is better!
 <br />
 <br />
 <br />
 
-### 📫 Мои контакты @ [e-mail][email] | [VKontakte][VK] | [Telegram][TG] | [WhatsApp][WA] |
+- 📫 Мои контакты @ [e-mail][email] | [VKontakte][VK] | [Telegram][TG] | [WhatsApp][WA] |
 
 [email]: <mailto:stasqa2022@gmail.com>
 [VK]: <https://vk.com/m1rage777>
