@@ -24,7 +24,7 @@
 	<img alt="WebStorm" width="73px" src="https://user-images.githubusercontent.com/89486551/145703556-7853a2fb-9487-49c4-9ff9-868c0fb82a98.png" />
 	<img alt="GoLand" width="73px" src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" />
 	<img alt="Ubuntu" width="73px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/231px-Logo-ubuntu_cof-orange-hex.svg.png" />
-	<img alt="Kali Linux" width="73px" src="https://images.cults3d.com/20tsR6Haz7eUgjBqGHeaMGKjyLs=/https://files.cults3d.com/uploaders/13841081/illustration-file/b21c7a0c-1acd-4aa1-ac50-05898d1ddf94/Kali-logo.jpg" />
+	<img alt="Kali Linux" width="73px" src="https://habrastorage.org/webt/ms/kc/gr/mskcgrgwqir66yvjq80jktkfyc8.jpeg" />
 	
 	
 	
