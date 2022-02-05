@@ -8,13 +8,13 @@
 - Прохождение различных курсов на YouTube.
 - Поиск и реализация багов в компьютерных и мобильных онлайн играх 8(
 _____
-### Моё образование
+### 🎓Моё образование
 - Прохожу курс Вадима Ксендзова в 26 группе.
 - Прошёл курс Артёма Русова "Тестировщик с нуля" и получил зачёт.
 
 <img alt="qr" width="730px" src="https://sun9-44.userapi.com/impg/YSm9SeEvamrEl8m01YvLzxKkwWnkn8q0S1VrOg/PK4_NW0pC6U.jpg?size=1280x689&quality=96&sign=5a0cd2591b4fdb1dfda7b124dacc4463&type=album" />
 
-#### Я прочитал книги по тестированию:
+#### 📖 Прочитаные книги по тестированию:
 
 - *Роман Савин "Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах"*
 
@@ -31,8 +31,8 @@ _____
 - 💞️ I'm looking for a new projects! Different is better!
 - 👀 I am interested in a lifecycle of software development.
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
--:computer:
-
+- 💻
+_____
 ### Tools 
 - 🗺️ Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, Ubuntu Linux, Kali Linux.
 - 
@@ -55,10 +55,7 @@ _____
 		
 </div>
 
-<br />
-<br />
-<br />
-
+_____
 
 - 📫 Мои контакты @ [e-mail][email] | [VKontakte][VK] | [Telegram][TG] | [WhatsApp][WA] |
 
