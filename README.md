@@ -1,5 +1,5 @@
 
-### 👋 Привет, это Моё резюме на GITHUB!!! [image](https://user-images.githubusercontent.com/96578692/152646227-8fdc4d20-dfd2-4d84-a2a9-f83073dcd458.png)
+### 👋 Привет, это Моё резюме на GITHUB!!! :octocat:
 
 
 ### [✏️Моё резюме](https://m1rage777.github.io/CV/)[✏️Мой YouTube Канал](https://www.youtube.com/channel/UCswE6GVW_EvLaLFLdpCQrFQ) And I want to be the greatest QA Engineer!
