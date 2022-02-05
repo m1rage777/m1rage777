@@ -25,15 +25,15 @@ _____
 - *Lee Copeland "A Practitioner's Guide to Software Test Design"в переводе Галины Уфимцевой*
 
 - *James Whittaker "Exploratory Software testing" в переводе Ольги Назиной*
-
-### Skills
+____
+### Soft Skills
 - 📖 I learn English (LangExchange + Self studying by **English File** course books)
 - 💞️ I'm looking for a new projects! Different is better!
 - 👀 I am interested in a lifecycle of software development.
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
 - 💻
 _____
-### Tools 
+### Hard Skills & Tools 
 - 🗺️ Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, Ubuntu Linux, Kali Linux.
 - 
 <!-- main_page_length: 846px, img_spacing: 4px -->
