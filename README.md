@@ -3,8 +3,8 @@
 
 ### [✏️Моё резюме](https://m1rage777.github.io/CV/)[✏️Мой YouTube Канал](https://www.youtube.com/channel/UCswE6GVW_EvLaLFLdpCQrFQ) And I want to be the greatest QA Engineer!
 ### Мои Хобби
-- Чтение Художественной Фантастической литературы.
--:computer: Кодинг на Python и JS.
+- 📚 Чтение Художественной Фантастической литературы.
+- :computer: Кодинг на Python и JS.
 - Прохождение различных курсов на YouTube.
 - Поиск и реализация багов в компьютерных и мобильных онлайн играх 8(
 _____
@@ -14,27 +14,27 @@ _____
 
 <img alt="qr" width="730px" src="https://sun9-44.userapi.com/impg/YSm9SeEvamrEl8m01YvLzxKkwWnkn8q0S1VrOg/PK4_NW0pC6U.jpg?size=1280x689&quality=96&sign=5a0cd2591b4fdb1dfda7b124dacc4463&type=album" />
 
-#### 📖 Прочитаные книги по тестированию:
+#### 📜 Прочитаные книги по тестированию:
 
-- *Роман Савин "Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах"*
+- 📕 *Роман Савин "Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах"*
 
-- *Святослав Куликов "Тестирование программного обеспечения. Базовый курс"*
+- 📗 *Святослав Куликов "Тестирование программного обеспечения. Базовый курс"*
 
-- *Ольга Назина "Тестирование программного обеспечения. Курс молодого бойца"*
+- 📙 *Ольга Назина "Тестирование программного обеспечения. Курс молодого бойца"*
 
-- *Lee Copeland "A Practitioner's Guide to Software Test Design"в переводе Галины Уфимцевой*
+- 📓 *Lee Copeland "A Practitioner's Guide to Software Test Design"в переводе Галины Уфимцевой*
 
-- *James Whittaker "Exploratory Software testing" в переводе Ольги Назиной*
+- 📘 *James Whittaker "Exploratory Software testing" в переводе Ольги Назиной*
 ____
-### Soft Skills
+### 💊 ☁️ Soft Skills
 - 📖 I learn English (LangExchange + Self studying by **English File** course books)
 - 💞️ I'm looking for a new projects! Different is better!
 - 👀 I am interested in a lifecycle of software development.
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
 - 💻
 _____
-### Hard Skills & Tools 
-- 🗺️ Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, Ubuntu Linux, Kali Linux.
+### 💣 🔪 Hard Skills & Tools 
+-  Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, Ubuntu Linux, Kali Linux.
 - 
 <!-- main_page_length: 846px, img_spacing: 4px -->
 <div align="center">
