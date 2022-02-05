@@ -1,5 +1,5 @@
 
-### 👋 Привет, это Моё резюме на GITHUB!!! :octocat:
+## 👋 Привет, это Моё резюме на GITHUB!!! :octocat:
 
 
 ### [✏️📁Моё резюме](https://m1rage777.github.io/CV/)[✏️🎥Мой YouTube Канал](https://www.youtube.com/channel/UCswE6GVW_EvLaLFLdpCQrFQ) 
