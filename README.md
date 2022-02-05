@@ -14,6 +14,7 @@
 <br />
 <img alt="qr" width="730px" src="https://sun9-44.userapi.com/impg/YSm9SeEvamrEl8m01YvLzxKkwWnkn8q0S1VrOg/PK4_NW0pC6U.jpg?size=1280x689&quality=96&sign=5a0cd2591b4fdb1dfda7b124dacc4463&type=album" />
 Я прочитал книги по тестированию:
+<br />
 - Роман Савин "Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах"
 
 - Святослав Куликов "Тестирование программного обеспечения. Базовый курс"
