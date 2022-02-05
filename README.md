@@ -3,7 +3,7 @@
 
 
 ### [✏️Моё резюме](https://m1rage777.github.io/CV/)[✏️Мой YouTube Канал](https://www.youtube.com/channel/UCswE6GVW_EvLaLFLdpCQrFQ) 
-###🙈🙉🙊 And I want to be the greatest QA Engineer!
+### 🙈🙉🙊 And I want to be the greatest QA Engineer!
 ### Мои Хобби
 - 📚 Чтение Художественной Фантастической литературы.
 - 💻 Кодинг на Python и JS.
