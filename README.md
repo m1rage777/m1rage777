@@ -2,11 +2,31 @@
 ### 👋 Привет, это Моё резюме!
 
 ### [✏️Моё резюме](https://m1rage777.github.io/CV/)[✏️Мой YouTube Канал](https://www.youtube.com/channel/UCswE6GVW_EvLaLFLdpCQrFQ) And I want to be the greatest QA Engineer!
+### Мои Хобби
+-Чтение Художественной Фантастической литературы.
+-:computer: Кодинг на Python и JS.
+-Прохождение различных курсов на YouTube.
+-Поиск и реализация багов в компьютерных и мобильных онлайн играх 8(
+### Моё образование
+##Прохожу курс Вадима Ксендзова в 26 группе.
+##Прошёл курс Артёма Русова "Тестировщик с нуля" и получил зачёт.
+##Я прочитал книги по тестированию:
+-Роман Савин "Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах"
+
+-Святослав Куликов "Тестирование программного обеспечения. Базовый курс"
+
+-Ольга Назина "Тестирование программного обеспечения. Курс молодого бойца"
+
+-Lee Copeland "A Practitioner's Guide to Software Test Design"в переводе Галины Уфимцевой
+
+-James Whittaker "Exploratory Software testing" в переводе Ольги Назиной
+
 ### Skills
 - 📖 I learn English (LangExchange + Self studying by **English File** course books)
 - 💞️ I'm looking for a new projects! Different is better!
 - 👀 I am interested in a lifecycle of software development.
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
+-:computer:
 
 ### Tools 
 - 🗺️ Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, Ubuntu Linux, Kali Linux.
@@ -27,11 +47,7 @@
 	<img alt="GoLand" width="73px" src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" />
 	<img alt="Ubuntu" width="73px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/231px-Logo-ubuntu_cof-orange-hex.svg.png" />
 	<img alt="Kali Linux" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1200px-Kali_Linux_2.0_wordmark.svg.png" />
-	
-	
-	
-	
-	
+		
 </div>
 
 <br />
