@@ -18,13 +18,13 @@
 	<img alt="Markdown" width="73px" src="https://user-images.githubusercontent.com/89486551/143319781-e0cb8223-f5db-4cfd-b2f8-9fab2e227023.png" />
 	<img alt="charles" width="73px" src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" />
 	<img alt="fiddler" width="73px" src="https://user-images.githubusercontent.com/89486551/143319792-72034e75-f2fe-4589-b741-6f21a2433a71.png" />
-	<img alt="android-studio" width="146px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/2560px-Android_Studio_Trademark.svg.png" />
+	<img alt="android-studio" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/2560px-Android_Studio_Trademark.svg.png" />
 	<img alt="postman" width="73px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" />
 	<img alt="pycharm" width="73px" src="https://user-images.githubusercontent.com/89486551/143319814-3645ca4a-c3cc-4958-aa5b-ff27b47d704c.png" />
 	<img alt="WebStorm" width="73px" src="https://user-images.githubusercontent.com/89486551/145703556-7853a2fb-9487-49c4-9ff9-868c0fb82a98.png" />
 	<img alt="GoLand" width="73px" src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" />
 	<img alt="Ubuntu" width="73px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/231px-Logo-ubuntu_cof-orange-hex.svg.png" />
-	<img alt="Kali Linux" width="146px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1200px-Kali_Linux_2.0_wordmark.svg.png" />
+	<img alt="Kali Linux" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1200px-Kali_Linux_2.0_wordmark.svg.png" />
 	
 	
 	
