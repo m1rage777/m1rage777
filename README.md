@@ -7,7 +7,7 @@
 - 💞️ I'm looking for a new projects! Different is better!
 - 👀 I am interested in a lifecycle of software development.
 - 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
-- 🗺️ Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm.
+- 🗺️ Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, Ubuntu Linux.
 ### Tools 
 <!-- main_page_length: 846px, img_spacing: 4px -->
 <div align="center">
@@ -22,6 +22,13 @@
 	<img alt="postman" width="73px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" />
 	<img alt="pycharm" width="73px" src="https://user-images.githubusercontent.com/89486551/143319814-3645ca4a-c3cc-4958-aa5b-ff27b47d704c.png" />
 	<img alt="WebStorm" width="73px" src="https://user-images.githubusercontent.com/89486551/145703556-7853a2fb-9487-49c4-9ff9-868c0fb82a98.png" />
+	<img alt="Ubuntu" width="73px" src="https://user-images.githubusercontent.com/89486551/145703556-7853a2fb-9487-49c4-9ff9-868c0fb82a98.png" />" />
+	
+	
+	
+	
+	
+	
 </div>
 
 <br />
