@@ -1,16 +1,17 @@
 
-### 👋 Привет, это Моё резюме!
+### 👋 Привет, это Моё резюме!![image](https://user-images.githubusercontent.com/96578692/152646227-8fdc4d20-dfd2-4d84-a2a9-f83073dcd458.png)
+
 
 ### [✏️Моё резюме](https://m1rage777.github.io/CV/)[✏️Мой YouTube Канал](https://www.youtube.com/channel/UCswE6GVW_EvLaLFLdpCQrFQ) And I want to be the greatest QA Engineer!
 ### Мои Хобби
 - 📚 Чтение Художественной Фантастической литературы.
 - 💻 Кодинг на Python и JS.
 - 🎓 Прохождение различных курсов на YouTube.
-- 🔬 🔨 💻 Поиск и реализация багов в компьютерных и мобильных онлайн играх 8(
+- 🔍 🎮 💻 Поиск и реализация багов в компьютерных и мобильных онлайн играх 8(
 _____
 ### 🎓Моё образование
-- Прохожу курс Вадима Ксендзова в 26 группе.
-- Прошёл курс Артёма Русова "Тестировщик с нуля" и получил зачёт.
+- 💀 Прохожу курс Вадима Ксендзова в 26 группе.
+- 🎌 Прошёл курс Артёма Русова "Тестировщик с нуля" и получил зачёт.
 
 <img alt="qr" width="730px" src="https://sun9-44.userapi.com/impg/YSm9SeEvamrEl8m01YvLzxKkwWnkn8q0S1VrOg/PK4_NW0pC6U.jpg?size=1280x689&quality=96&sign=5a0cd2591b4fdb1dfda7b124dacc4463&type=album" />
 
@@ -27,10 +28,10 @@ _____
 - 📘 *James Whittaker "Exploratory Software testing" в переводе Ольги Назиной*
 ____
 ### 💊 ☁️ Soft Skills
-- 📖 I learn English (LangExchange + Self studying by **English File** course books)
-- 💞️ I'm looking for a new projects! Different is better!
-- 👀 I am interested in a lifecycle of software development.
-- 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
+- 📖 Изучаю Английский язык по плейлистам
+- 🐾 
+- 👀 
+- 😎 
 - 💻
 _____
 ### 💣 🔪 Hard Skills & Tools 
