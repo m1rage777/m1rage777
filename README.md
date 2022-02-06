@@ -13,7 +13,9 @@ ____
 _____
 ### 🎓Моё образование
 - 💀🔳 Прохожу курс Вадима Ксендзова в 26 группе.
+- 📖🔳 Изучаю Английский язык по плейлистам.
 - 🎌✅ Прошёл курс Артёма Русова "Тестировщик с нуля" и получил зачёт.
+
 
 <img alt="qr" width="730px" src="https://sun9-44.userapi.com/impg/YSm9SeEvamrEl8m01YvLzxKkwWnkn8q0S1VrOg/PK4_NW0pC6U.jpg?size=1280x689&quality=96&sign=5a0cd2591b4fdb1dfda7b124dacc4463&type=album" />
 
@@ -30,11 +32,11 @@ _____
 - 📘 *James Whittaker "Exploratory Software testing" в переводе Ольги Назиной*
 ____
 ### 💊 ☁️ Soft Skills
-- 📖 Изучаю Английский язык по плейлистам
-- 🐾 
-- 👀 
-- 😎 
-- 💻
+- 🐒 Повышенная коммуникабельность.
+- 🐹 Хомячок мне просто понравился, тут должно быть про упёртость с барашкой. 
+- 👀 Любознательность и внимательность.
+- 😎 Стрессоустойчивасть.
+- 💻 Умение Гуглить!!!
 _____
 ### 💣 🔪 Hard Skills & Tools 
 -  🌐 Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, VS Code, Ubuntu Linux, Kali Linux.
@@ -60,7 +62,7 @@ _____
 	<img alt="Kali Linux" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1200px-Kali_Linux_2.0_wordmark.svg.png" />
 		
 </div>
-
+### ⚠️ Тут могла бы быть ваша реклама курсов 🎓 или ставок на спорт 🎰👀
 _____
 
 - 📫 Мои контакты @ [e-mail][email] | [VKontakte][VK] | [Telegram][TG] | [WhatsApp][WA] |
