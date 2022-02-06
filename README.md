@@ -66,7 +66,7 @@ _____
 ### ⚠️ Тут могла быть реклама курсов 🎓 или ставок на спорт 🎰👀
 _____
 
-- 📫 Мои контакты @ [e-mail][email] | [VKontakte][VK] | [Telegram][TG] | [WhatsApp][WA] |
+### 📫 Мои контакты @ [e-mail][email] | [VKontakte][VK] | [Telegram][TG] | [WhatsApp][WA] |
 
 [email]: <mailto:stasqa2022@gmail.com>
 [VK]: <https://vk.com/m1rage777>
