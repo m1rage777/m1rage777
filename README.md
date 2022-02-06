@@ -2,7 +2,7 @@
 ### 👋 Привет, это Моё резюме на GITHUB!!! :octocat:
 
 
-### [✏️📁Моё резюме](https://m1rage777.github.io/CV/)[✏️🎥Мой YouTube Канал](https://www.youtube.com/channel/UCswE6GVW_EvLaLFLdpCQrFQ) 
+### [✏️📁Мой сайт резюме](https://m1rage777.github.io/CV/)[✏️🎥Мой YouTube Канал](https://www.youtube.com/channel/UCswE6GVW_EvLaLFLdpCQrFQ) 
 ### 🙈🙉🙊 And I want to be the greatest QA Engineer!
 ____
 ### Мои Хобби
@@ -12,8 +12,8 @@ ____
 - 🔍 🎮 💻 Поиск и реализация багов в компьютерных и мобильных онлайн играх 8(
 _____
 ### 🎓Моё образование
-- 💀 Прохожу курс Вадима Ксендзова в 26 группе.
-- 🎌 Прошёл курс Артёма Русова "Тестировщик с нуля" и получил зачёт.
+- 💀🔳 Прохожу курс Вадима Ксендзова в 26 группе.
+- 🎌✅ Прошёл курс Артёма Русова "Тестировщик с нуля" и получил зачёт.
 
 <img alt="qr" width="730px" src="https://sun9-44.userapi.com/impg/YSm9SeEvamrEl8m01YvLzxKkwWnkn8q0S1VrOg/PK4_NW0pC6U.jpg?size=1280x689&quality=96&sign=5a0cd2591b4fdb1dfda7b124dacc4463&type=album" />
 
