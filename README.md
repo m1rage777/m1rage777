@@ -37,7 +37,7 @@ ____
 - 👀 Любознательность и внимательность к деталям.
 - 😎 Стрессоустойчивость и умение обьяснять техническую информацию понятными словами.
 - 💻 Умение Гуглить!!!
-- 🐒🐒🐒 Умение работать в комманде. (Ну а фигли, столько лет был кланлидом в каждой онлайн игре. Начиная с 2005 года LineAgeII DreamGame, La2.Tomsk.Ru, Avadon.ru)   
+- 🐒🐒🐒 Умение работать в комманде. (Ну а фигли, столько лет был кланлидом в каждой онлайн игре. Начиная с 2005 года LineAgeII DreamGame, La2.Tomsk.Ru, Avadon.ru - 2022 AfkArena)   
 _____
 ### 💣 🔪 Hard Skills & Tools 
 -  🌐 Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, VS Code, Ubuntu Linux, Kali Linux.
