@@ -62,6 +62,7 @@ _____
 	<img alt="Kali Linux" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1200px-Kali_Linux_2.0_wordmark.svg.png" />
 		
 </div>
+
 ### ⚠️ Тут могла бы быть ваша реклама курсов 🎓 или ставок на спорт 🎰👀
 _____
 
