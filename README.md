@@ -40,7 +40,7 @@ ____
 - 🐒🐒🐒 Умение работать в команде.
 _____
 ### 💣 🔪 Hard Skills & Tools 
--  🌐 Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, VS Code, Ubuntu Linux, Kali Linux.
+-  🌐 Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, VS Code, Ubuntu Linux, Arch Linux.
 -  👀 Мои домашки
 -  😎 Мои презентации
 -  💻 Скрипты автоматизации
