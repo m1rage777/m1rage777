@@ -30,6 +30,9 @@ _____
 - 📓 *Lee Copeland "A Practitioner's Guide to Software Test Design"в переводе Галины Уфимцевой*
 
 - 📘 *James Whittaker "Exploratory Software testing" в переводе Ольги Назиной*
+
+- 📄 *ISTQB syllabus 2018*
+-  
 ____
 ### 💊 ☁️ Soft Skills
 - 🐒 Повышенная коммуникабельность. 
