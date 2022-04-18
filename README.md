@@ -44,7 +44,7 @@ _____
 -  Git (Статус вьювить, коммит пушить, фетчить, пулить клонить, бранчить, но не мерджить и гит ребейзить 8),
 -  Charles\Fiddler,
 -  Postman (GET, POST, PUT, DELETE, создавать коллекции, переменные, пользоваться снипетами),
--  MySQL (CREATE,SELECT,INSERT,JOIN,GROUP BY,BETWEEN,BETWEEN,HAVING,LIKE,DELETE и любимая DROP TABLE),
+-  MySQL (CREATE,SELECT,INSERT,JOIN,GROUP BY,BETWEEN,HAVING,LIKE,DELETE и любимая DROP TABLE),
 -  Android Studio,
 -  PyCharm,
 -  VS Code,
