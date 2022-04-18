@@ -40,15 +40,16 @@ ____
 _____
 ### 💣 🔪 Hard Skills & Tools 
 -  🌐 Я использую: 
--Chrome DevTools,
--Git (Аддить, фетчить, клонить, пушить, бранчить, статус, но не мерджить),
--Charles\Fiddler,
--Postman (GET, POST, PUT, DELETE, создавать коллекции, переменные, пользоваться снипетами),
--MySQL (CREATE,SELECT,INSERT,JOIN,GROUP BY,BETWEEN,BETWEEN,HAVING,LIKE,DELETE и любимая DROP TABLE),
--Android Studio,
--PyCharm,
--VS Code,
--Ubuntu, Arch Linux.
+-  Chrome DevTools,
+-  Git (Аддить, фетчить, клонить, пушить, бранчить, статус, но не мерджить),
+-  Charles\Fiddler,
+-  Postman (GET, POST, PUT, DELETE, создавать коллекции, переменные, пользоваться снипетами),
+-  MySQL (CREATE,SELECT,INSERT,JOIN,GROUP BY,BETWEEN,BETWEEN,HAVING,LIKE,DELETE и любимая DROP TABLE),
+-  Android Studio,
+-  PyCharm,
+-  VS Code,
+-  Ubuntu, Arch Linux.
+-  
 -  👀 Мои домашки
 -  😎 Мои презентации
 -  💻 Скрипты автоматизации
