@@ -32,15 +32,23 @@ _____
 - 📘 *James Whittaker "Exploratory Software testing" в переводе Ольги Назиной*
 ____
 ### 💊 ☁️ Soft Skills
-- 🐒 Повышенная коммуникабельность.
-- 🐹 Хомячок мне просто понравился, тут должно быть про упёртость с барашкой. 
+- 🐒 Повышенная коммуникабельность. 
 - 👀 Любознательность и внимательность к деталям.
 - 😎 Стрессоустойчивость и умение обьяснять техническую информацию понятными словами.
 - 💻 Умение Гуглить!!!
 - 🐒🐒🐒 Умение работать в команде.
 _____
 ### 💣 🔪 Hard Skills & Tools 
--  🌐 Я использую: DevTools, DBeaver, GitBash, Charles, Fiddler, Android Studio, Postman, PyCharm, WebStorm, GoLand, VS Code, Ubuntu Linux, Arch Linux.
+-  🌐 Я использую: 
+-Chrome DevTools,
+-Git (Аддить, фетчить, клонить, пушить, бранчить, статус, но не мерджить),
+-Charles\Fiddler,
+-Postman (GET, POST, PUT, DELETE, создавать коллекции, переменные, пользоваться снипетами),
+-MySQL (CREATE,SELECT,INSERT,JOIN,GROUP BY,BETWEEN,BETWEEN,HAVING,LIKE,DELETE и любимая DROP TABLE),
+-Android Studio,
+-PyCharm,
+-VS Code,
+-Ubuntu, Arch Linux.
 -  👀 Мои домашки
 -  😎 Мои презентации
 -  💻 Скрипты автоматизации
