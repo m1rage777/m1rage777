@@ -53,9 +53,10 @@ _____
 -  VS Code,
 -  Ubuntu, Arch Linux.
 -  
--  👀 Мои домашки
+-  👀 Мои домашки https://github.com/m1rage777/QA-homework
 -  😎 Мои презентации
 -  💻 Скрипты автоматизации
+-  📄 Моё резюме pdf https://disk.yandex.ru/d/B8ydVuH3D6wg4g
 <!-- main_page_length: 846px, img_spacing: 4px -->
 <div align="center">
 	<img alt="devtools" width="35px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
